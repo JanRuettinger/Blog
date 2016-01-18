@@ -1,0 +1,75 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+hr{
+  margin-top: 4px;
+}
+
+
+.tech{
+  color: #F5A623;
+  letter-spacing: 3px;
+  font-weight: 500;
+}
+.startup{
+  color: #BD10E0;
+  letter-spacing: 3px;
+  font-weight: 500;
+}
+.life{
+  color: #7ED321;
+  letter-spacing: 3px;
+  font-weight: 500;
+}
+
+.date-article{
+  color: red;
+  border-bottom: 2px solid red;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+
+
+.name{
+  margin-top: 50px;
+}
+
+
+.general{
+  margin-top: 25px;
+  margin-bottom:25px;
+  padding-left: 20px;
+
+
+  .general-list{
+    padding-left: 20px;
+
+  }
+
+}
+
+.blog{
+  margin-top: 25px;
+  margin-bottom:25px;
+  padding-left: 20px;
+
+  .blog-list{
+    padding-left: 20px;
+
+  }
+
+}
+
+.projects{
+  margin-top: 25px;
+  margin-bottom:25px;
+  padding-left: 20px;
+
+  .project-list{
+    padding-left: 20px;
+
+  }
+
+}
